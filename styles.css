@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#animal-photos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#animal-photos img {
+  width: 200px;
+  margin: 10px;
+	border-radios:20px
+}
+
